@@ -1,0 +1,10 @@
+Sequence:
+This order was placed for QT3000! OK?
+
+Pattern:
+(.*?)(\d+)(.*)
+
+Result:
+group 1: This order was placed for QT
+group 2: 3000
+group 3: ! OK?
